@@ -1,5 +1,5 @@
 
-![image](https://lh5.googleusercontent.com/E1sGn1SOSWKI44AliKwFI5g0BXKj8Eryr_ipbNe_t7kDRWDB2NlrLHALNHsWfwgHeWQqohaspciseg=w1920-h932-rw)
+![image](https://raw.githubusercontent.com/BXtrmFrost/BxtrmFrost/main/image.png)
 
 - 🔭 I’m currently working on **Web development**  
   
