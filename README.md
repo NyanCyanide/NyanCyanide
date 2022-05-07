@@ -1,5 +1,5 @@
 
-![image](https://raw.githubusercontent.com/BXtrmFrost/BxtrmFrost/main/image.png)
+![gif](https://raw.githubusercontent.com/BXtrmFrost/BxtrmFrost/main/image-gif.gif)
 
 - 🔭 I’m currently working on **Web development**  
   
