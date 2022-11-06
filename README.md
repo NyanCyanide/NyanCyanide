@@ -33,4 +33,4 @@ These are the ways you can connect me! 🙃
 <img align="center" src="https://skillicons.dev/icons?i=activitypub" alt="nyancyanide" /></a>
 <div>
 
-![](https://raw.githubusercontent.com/NyanCyanide/NyanCyanide/main/contribution.svg)
+![](https://github.com/NyanCyanide/NyanCyanide/blob/output/github-contribution-grid-snake.svg)
