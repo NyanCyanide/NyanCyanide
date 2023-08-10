@@ -6,7 +6,7 @@ My area of interest is in Game Development, Networking, Web Development, Artific
 
 **Motivation to Code:** **“What I cannot create, I do not understand.”* - **Richard Feynman***
 
-**Website :** [nyancyanide.github.io](https://nyancyanide.github.io/urban-webis/)
+**Website :** [nyancyanide.github.io](https://hossa.me)
 
 # Tech Stack
 These are some of my tools, languages and platforms that I use to develop interesting projects!
